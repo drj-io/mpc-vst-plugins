@@ -1,0 +1,11 @@
+{ 
+  "id": "scratchivision", 
+  "name": "Scratchivision Digital Vinyl System", 
+  "author": "Slow Ops Music",
+  "repo": "drj-io/SlowOps.Scratchivision", 
+  "kind": "effect", 
+  "license": "MIT",
+  "summary": "Digital Vinyl System that uses Serato records or Phase devices to provide virtual vinyl playback",
+  "style": "utility", 
+  "tags": ["DVS", "Vinyl Emulation"] 
+}
